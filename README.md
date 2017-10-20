@@ -1,6 +1,11 @@
 # searchEngineForLaw
-> Graduation thesis title：Retrieval system design and implementation of laws and regulations
-  Paper content：1. Data crawl laws and regulations
+> Graduation thesis title：Retrieval system design and implementation of laws and regulations<br/>
+ 毕业论文题目：法律法规检索系统的设计与实现<br/>
+ Paper content : 
+  - Data crawl laws and regulations
+  - indexing
+  - Conditions for screening
+ 
 
 
 - a simple searchEngine base on the elasticsearch which is about the law and rules in China
