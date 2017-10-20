@@ -11,5 +11,6 @@
 - Technology stack(技术栈):
     - python(Django)
     - scrapy(scrapy-redis)
-    - elasticsearch
-    
+    - elasticsearch
+- Environment(搭建环境) : 阿里云ECS-Centos7.2
+> 未完待续
